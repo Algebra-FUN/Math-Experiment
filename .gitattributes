@@ -1,1 +1,2 @@
 Mathematica/**/*.ipynb linguist-language=Mathematica
+*.html linguist-vendored=false
