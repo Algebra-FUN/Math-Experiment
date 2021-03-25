@@ -1,3 +1,2 @@
 # Math Experiment
-This is a reposity to store my work for course of Math Experiment.
-It include the note and assignment.
+This is a repository to store my work for Course of Math Experiment,including the notes and assignments.Maybe it would be a optional reference for coming students who will take the same course.
