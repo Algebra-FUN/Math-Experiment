@@ -1,2 +1,3 @@
 *.html linguist-detectable=false
 Mathematica/**/*.ipynb linguist-language=Mathematica
+R/**/*.ipynb linguist-language=R
